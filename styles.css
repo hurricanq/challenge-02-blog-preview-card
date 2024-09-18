@@ -72,6 +72,11 @@ body {
     color: var(--gray-950);
 }
 
+.content-title:hover {
+    color: var(--primary-color);
+    cursor: pointer;
+}
+
 .content-desc {
     font-size: 1.6rem;
     font-weight: 500;
